@@ -1,7 +1,7 @@
-# Forum App in React & Redux + Django
+# Twitter clone
 
 ```
-Forum App, with a frontend built in React & Redux and a backend built in Django API.
+Twitter Clone, with a HTML , CSS and Django.
 ```
 
 Check out [FRONTEND LIVE DEMO](https://forum-prod-frontend.herokuapp.com/) here!!
@@ -11,7 +11,7 @@ Check out [API LIVE DEMO](https://forum-prod-api.herokuapp.com/) here!!
 ## Tech used
 
 ```
-* Frontend : React & Redux
+* Frontend : HTML And CSS
 * Backend : Django
 ```
 
@@ -20,7 +20,7 @@ Check out [API LIVE DEMO](https://forum-prod-api.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
+git clone
 ```
 
 2. Backend setting
